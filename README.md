@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chillingcone426
 - 👀 I’m interested in creating discord bots and learning about js
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me on discord thebeston123#7462
+- 📫 How to reach me on discord thebeston
 
 <!---
 chillingcone426/chillingcone426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
